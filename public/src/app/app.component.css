@@ -1,0 +1,20 @@
+.btn-success {
+    margin: 20px;
+    width: 180px;
+}
+
+.tasks {
+    border: 3px solid purple;
+    border-radius: 20px;
+    padding:20px;
+}
+.show {
+    border: 3px solid rgb(228, 93, 228);
+    border-radius: 20px;
+    padding: 20px;
+    margin-top:10px;
+}
+#show {
+    margin-right:600px;
+}
+
